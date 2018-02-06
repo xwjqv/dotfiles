@@ -1,0 +1,5 @@
+[user]
+	email = 35635774+xwjqv@users.noreply.github.com
+	name = xwjqv
+[alias]
+	ignore = "!gi() { curl -L -s https://www.gitignore.io/api/$@ ;}; gi"
